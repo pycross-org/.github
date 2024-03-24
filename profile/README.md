@@ -1,0 +1,1 @@
+The goal of pycross is to explore the crossroads between Python and other programming languages, development environment, and tools. The first two areas to be explored will be Python crossed with MATLAB and Python crossed with Excel.
